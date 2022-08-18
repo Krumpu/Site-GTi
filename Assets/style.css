@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+.primeiro {
+    height:70vh;
+    width: 100%;
+    background-color: EFE3FF;
+    background-image: url("images/image\ 11.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.espacamento {
+    margin-right: 25vh;
+}
+.espacamento2 {
+    margin-left: 25vh;
+}
+.fora{
+    position: relative;
+    margin-left: 12vh;
+    margin-right: 12vh;
+    margin-top: 5vh;
+    width: 20vh;
+    display: inline-block;
+}
+
+.box {
+    background:white;
+
+    height:30vh;
+    text-align: center;
+    
+}
+
+nav {
+
+    width: 100%;
+
+    display: flex;
+
+    position: fixed;
+
+    background-color: white;
+
+    z-index: 99;
+
+}
+
+nav a {
+
+    color: black;
+
+    margin: 5px 0vh 0vh 30px;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+}
+
+nav li {
+
+    float: left;
+    color: gray;
+    list-style: none;
+
+    margin-left: 20px;
+    margin-top: 5px;
+
+}
