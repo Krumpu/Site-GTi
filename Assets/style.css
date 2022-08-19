@@ -95,10 +95,11 @@ nav img {
 
 .steps{
     position: relative;
-    margin-left: 18vh;
-    margin-right: 18vh;
+    margin-left: 12vh;
+    margin-right: 12vh;
     margin-top: 2vh;
     display: inline-block;
+    font-family: lucida sans;
 
 }
 
@@ -116,4 +117,6 @@ nav img {
     display: inline-block;
 }
 
-
+.titulo{
+    font-family: lucida sans;
+}
