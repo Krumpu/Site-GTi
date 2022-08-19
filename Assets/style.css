@@ -83,3 +83,37 @@ nav img {
     margin-left: 20px;
     margin-top: 5px;
 }
+
+.stepbox {
+    background:white;
+
+    height:50vh;
+    margin-bottom: 5vh;
+    text-align: center;
+    
+}
+
+.steps{
+    position: relative;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    margin-top: 2vh;
+    display: inline-block;
+
+}
+
+.yt{
+    position: relative;
+    margin-top: 6vh;
+    margin-bottom: 5vh;
+}
+
+.parceiros{
+    position: relative;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    margin-top: -2vh;
+    display: inline-block;
+}
+
+
