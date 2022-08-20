@@ -64,7 +64,6 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
-    display: inline-block;
     position: fixed;
 
     background-color: white;
@@ -142,6 +141,8 @@ nav img {
 }
 
 .parceiros{
+    align-items: center;
+    justify-content: center;
     position: relative;
     margin-left: 10vh;
     margin-right: 10vh;
