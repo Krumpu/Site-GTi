@@ -104,10 +104,47 @@ nav img {
 }
 
 #botao1{
+    margin-top: 5vh;
     color: white;
     background-color:#7A7CFF;
     height: 5vh;
     width: 20vh;
     border: 0ch;
     border-style: dotted;
+}
+.stepbox {
+    background:white;
+
+    height:50vh;
+    margin-bottom: 5vh;
+    text-align: center;
+    
+}
+
+.steps{
+    position: relative;
+    margin-left: 12vh;
+    margin-right: 12vh;
+    margin-top: 2vh;
+    display: inline-block;
+    font-family: lucida sans;
+
+}
+
+.yt{
+    position: relative;
+    margin-top: 6vh;
+    margin-bottom: 5vh;
+}
+
+.parceiros{
+    position: relative;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    margin-top: -2vh;
+    display: inline-block;
+}
+
+.titulo{
+    font-family: lucida sans;
 }
