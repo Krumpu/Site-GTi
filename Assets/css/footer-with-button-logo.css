@@ -109,10 +109,9 @@
         text-align: center;
     }
 }
-
-
-
-
+.container_carrosel {
+    text-align: center;
+}
 
 .content{
    flex: 1 0 auto;
