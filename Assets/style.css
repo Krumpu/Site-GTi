@@ -148,3 +148,8 @@ nav img {
 .titulo{
     font-family: lucida sans;
 }
+.section3 {
+    display: inline-block;
+    position: inline-flex;
+    margin-top: 80vh;
+}
