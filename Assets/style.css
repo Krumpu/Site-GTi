@@ -62,7 +62,9 @@ nav {
     width: 100%;
 
     display: flex;
-
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
     position: fixed;
 
     background-color: white;
@@ -78,6 +80,7 @@ nav a {
     margin: 5px 0vh 0vh 30px;
 
     text-decoration: none;
+    
 
     font-weight: bold;
 
@@ -88,9 +91,10 @@ nav li {
     float: left;
     color: gray;
     list-style: none;
+    justify-content: center;
+    align-items: center;
 
-    margin-left: 20px;
-    margin-top: 10px;
+    margin-left: 15vh;
 
 }
 
